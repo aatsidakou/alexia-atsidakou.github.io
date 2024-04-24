@@ -8,12 +8,12 @@ author_profile: true
 
 
 [**Bayesian Fixed-Budget Best-Arm Identification**](https://arxiv.org/abs/2211.08572)
-
 AA, Sumeet Katariya, Sujay Sanghavi, Branislav Kveton
-
 (pre-print)
 
-**Contextual Pandora’s Box**
+[**Contextual Pandora’s Box**](https://arxiv.org/abs/2205.13114)
+AA, Constantine Caramanis, Evangelia Gergatsouli, Orestis Papadigenopoulos, Christos Tzamos
+AAAI Conference on Artificial Intelligence (AAAI) 2024
 
 
 
