@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+Bayesian Fixed-Budget Best-Arm Identification
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my publications on my Google Scholar <a href="{{site.author.googlescholar}}">profile</a>.</div>
